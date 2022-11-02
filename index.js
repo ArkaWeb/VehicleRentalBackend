@@ -1,2 +1,2 @@
 console.log("auth-login");
-console.log("auth-resiterr");
+console.log("auth-register");
