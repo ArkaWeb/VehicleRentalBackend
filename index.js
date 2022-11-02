@@ -1,2 +1,2 @@
-console.log("auth-login");
-console.log("auth-register");
+console.log("authlogin");
+console.log("authregister");
